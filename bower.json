@@ -1,0 +1,20 @@
+{
+  "name": "mattowen",
+  "version": "0.0.0",
+  "authors": [
+    "Paul Scott <paul.scotto@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://icio.github.io/mattowen",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
